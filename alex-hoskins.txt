@@ -79,7 +79,7 @@ Link to finished codepen: https://codepen.io/codenameAlex/pen/powyJWr?editors=11
         Every 20 minutes
     36. What is the command we would use to push our repo up to github?
         git push -u origin firstname-lastname
-        And the just "git push" 
+        And then just "git push" 
     37. Walk me through Lambda's git flow. 
         fork
         move to lambdaAssignments or desired folder
